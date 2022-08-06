@@ -1,5 +1,5 @@
 import React from "react";
-// import "./ageCalculator.css"
+import "./ageCalculator.css"
 //make years and days array
 function generateArray(start, end) {
   let arr = [];
